@@ -1,14 +1,14 @@
-Eventf
+Evenft
 
 Project Overview
 
-Eventf is an Android app designed with a clean architecture to provide users with a seamless experience for discovering, participating in, and managing events. The app offers a user-friendly interface that allows users to explore a wide range of events, subscribe to their favorite ones, and even create NFTs (Non-Fungible Tokens) associated with the events they win.
+Evenft is an Android app designed with a clean architecture to provide users with a seamless experience for discovering, participating in, and managing events. The app offers a user-friendly interface that allows users to explore a wide range of events, subscribe to their favorite ones, and even create NFTs (Non-Fungible Tokens) associated with the events they win.
 Features
 
 
 1. Event Listing
 
-    Eventf provides users with an extensive list of upcoming events across various categories such as sports, entertainment, technology, and more.
+    Evenft provides users with an extensive list of upcoming events across various categories such as sports, entertainment, technology, and more.
 
 2. Event Subscription
 
@@ -16,7 +16,7 @@ Features
 
 3. Event Participation
 
-    Eventf allows users to participate in events they've subscribed to.
+    Evenft allows users to participate in events they've subscribed to.
 
 4. NFT Creation
 
@@ -28,7 +28,7 @@ Features
 
 Clean Architecture
 
-Eventf is built using a clean architecture approach, ensuring separation of concerns, maintainability, and scalability of the codebase. The architecture includes distinct layers such as:
+Evenft is built using a clean architecture approach, ensuring separation of concerns, maintainability, and scalability of the codebase. The architecture includes distinct layers such as:
 
     Presentation Layer: Handles user interfaces and interactions.
     Domain Layer: Contains business logic and use cases.
