@@ -6,21 +6,6 @@ Eventf is an Android app designed with a clean architecture to provide users wit
 Features
 
 
-
-<!-- Top Row -->
-<div align="center">
-  <img src="./images/image1.jpg" alt="Image 1" width="200"/>
-  <img src="./images/image2.jpg" alt="Image 2" width="200"/>
-</div>
-
-<!-- Bottom Row -->
-<div align="center">
-  <img src="./images/image3.jpg" alt="Image 3" width="200"/>
-  <img src="./images/image4.jpg" alt="Image 4" width="200"/>
-</div>
-
-
-
 1. Event Listing
 
     Eventf provides users with an extensive list of upcoming events across various categories such as sports, entertainment, technology, and more.
