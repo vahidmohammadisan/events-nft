@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/wallet">
+
+    <fragment
+        android:id="@+id/events"
+        android:name="ir.vahidmohammadisan.lst.presentation.ui.events.EventsFragment"
+        android:label="@string/events"
+        tools:layout="@layout/fragment_events" />
+
+    <fragment
+        android:id="@+id/onboarding"
+        android:name="ir.vahidmohammadisan.lst.presentation.ui.onboarding.OnboardingFragment"
+        android:label="@string/onboarding"
+        tools:layout="@layout/fragment_onboarding" />
+
+    <fragment
+        android:id="@+id/wallet"
+        android:name="ir.vahidmohammadisan.lst.presentation.ui.wallet.WalletFragment"
+        android:label="@string/wallet"
+        tools:layout="@layout/fragment_wallet" />
+
+    <fragment
+        android:id="@+id/details"
+        android:name="ir.vahidmohammadisan.lst.presentation.ui.events.EventDetailsFragment"
+        android:label="@string/details" />
+
+    <dialog
+        android:id="@+id/question"
+        android:name="ir.vahidmohammadisan.lst.presentation.ui.nft.CreateNftQuestionSheetFragment"
+        android:label="CreateNftQuestionSheetFragment" />
+
+    <fragment
+        android:id="@+id/nft"
+        android:name="ir.vahidmohammadisan.lst.presentation.ui.nft.NFTFragment"
+        android:label="NFTFragment" />
+
+    <action
+        android:id="@+id/action_wallet_to_events"
+        app:destination="@id/events"
+        app:popUpTo="@+id/wallet"
+        app:popUpToInclusive="true" />
+
+</navigation>

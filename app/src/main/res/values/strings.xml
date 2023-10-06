@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">LST</string>
+
+    <string name="google_map">Google Map</string>
+    <string name="please_enable_gps_in_your_device_settings">Please Enable Gps in your device settings to use this app.</string>
+    <string name="network_is_not_available">Network is not available</string>
+    <string name="location_permission_required">Location Permission Required</string>
+    <string name="please_allow_all_the_time_location_permission">Please allow all the time location permission in your device settings to use this app.</string>
+    <string name="gps_is_required">Gps is Required</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="destination">Destination</string>
+    <string name="start_location">Start Location</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="last_route">Last Route</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="create_wallet">Create a wallet</string>
+    <string name="choose_plan">Choose a plan</string>
+    <string name="driving_well">Drive safe</string>
+    <string name="lets_start">let\'s START</string>
+    <string name="wallet_desc">In order to receive and store tokens, you need to create a wallet...</string>
+    <string name="plan_desc">It is recommended to choose suitable plans for proper communication with the platform...</string>
+    <string name="drive_safe">Our platform will reward you for safe driving...</string>
+    <string name="onboarding">onboarding</string>
+    <string name="wallet">wallet</string>
+    <string name="wallet_notices">We will quickly create a wallet and keep it safe in secure preferences of the app ...</string>
+    <string name="import_wallet">Import wallet</string>
+    <string name="category">Category:</string>
+    <string name="state">State:</string>
+    <string name="title">Title:</string>
+    <string name="desc">Description:</string>
+    <string name="start">Start date:</string>
+    <string name="end">End date:</string>
+    <string name="country">Country:</string>
+    <string name="private_">Is private:</string>
+    <string name="events">events</string>
+    <string name="details">details</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="result_check">Check result</string>
+    <string name="nft_create_question">Would you like create the event\'s NFT?</string>
+    <string name="upload">upload</string>
+    <string name="congratulations">Congratulations, you are very lucky, you are the lottery winner in this event</string>
+    <string name="nft_creation_notice">If you continue, you can mint the events NFT on the network with this platform automatically. We will transfer the NFT to your wallet.</string>
+    <string name="contract_address">NFT was minted, the contract address:</string>
+    <string name="mint">mint</string>
+    <string name="private_key">Private key</string>
+    <string name="or">Or</string>
+    <string name="mnemonic">Mnemonic</string>
+    <string name="token_id">Token ID :</string>
+    <string name="import_wallet_mnemonic">import wallet by mnemonic</string>
+    <string name="import_wallet_privatekey">import wallet by private key</string>
+
+</resources>
